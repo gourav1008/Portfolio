@@ -86,7 +86,7 @@ npm run dev
 **Gourav Gupta**  
 *Full Stack Software Engineer*
 
-- **GitHub**: [@gourav-gupta](https://github.com/gourav-gupta)
+- **GitHub**: [@gourav-gupta](https://github.com/gourav1008)
 - **Website**: [gouravgupta.vercel.app](https://gouravgupta.vercel.app/)
 
 ---
