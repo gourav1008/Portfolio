@@ -18,7 +18,7 @@ const GitHubApp = () => {
         const fetchGitHubActivity = async () => {
             try {
                 // Change 'gourav-gupta' to actual username if different
-                const res = await fetch('https://api.github.com/users/gourav-gupta/events', {
+                const res = await fetch('https://api.github.com/users/gourav1008/events', {
                     headers: {
                         'Accept': 'application/vnd.github.v3+json'
                     }
@@ -82,7 +82,7 @@ const GitHubApp = () => {
 
                 <div className="flex-1 text-center md:text-left space-y-1.5 md:space-y-2">
                     <h1 className="text-xl md:text-2xl font-bold text-white tracking-tight">Gourav Gupta</h1>
-                    <p className="text-[#8b949e] text-base md:text-lg">gourav-gupta • Full Stack Engineer</p>
+                    <p className="text-[#8b949e] text-base md:text-lg">gourav1008 • Full Stack Engineer</p>
                     <p className="text-[#c9d1d9] text-sm md:text-base max-w-xl mx-auto md:mx-0">Building scalable MERN ecosystems. Passionate about real-time protocols and interactive UI.</p>
 
                     <div className="flex flex-wrap justify-center md:justify-start gap-3 md:gap-4 pt-2 text-[10px] md:text-sm text-[#8b949e]">
@@ -91,7 +91,7 @@ const GitHubApp = () => {
                     </div>
                 </div>
 
-                <a href="https://github.com/gourav-gupta" target="_blank" rel="noreferrer" className="w-full md:w-auto px-4 py-2 bg-[#21262d] border border-[#30363d] rounded-md text-xs md:text-sm font-medium hover:bg-[#30363d] transition-colors flex items-center justify-center gap-2">
+                <a href="https://github.com/gourav1008" target="_blank" rel="noreferrer" className="w-full md:w-auto px-4 py-2 bg-[#21262d] border border-[#30363d] rounded-md text-xs md:text-sm font-medium hover:bg-[#30363d] transition-colors flex items-center justify-center gap-2">
                     <Github className="w-4 h-4" />
                     Follow
                 </a>
